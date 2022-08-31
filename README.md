@@ -13,3 +13,11 @@ icon credits:
       logo edited by rebokdev
 launcher credits:
         main creator:rebokdev
+
+
+
+project is suspended for a while cause i'm learing kotlin
+after that i will learn more python
+and gtk and libadwaita basics in python
+
+maybe i would make this project in kotlin IDK for this time
